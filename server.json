@@ -6,14 +6,6 @@
       "price": "",
       "description": "",
       "available": true,
-      "id": 1
-    },
-    {
-      "image": "",
-      "name": "",
-      "price": "",
-      "description": "",
-      "available": true,
       "id": 2
     },
     {
@@ -23,6 +15,14 @@
       "description": "",
       "available": true,
       "id": 3
+    },
+    {
+      "image": "",
+      "name": "",
+      "price": "",
+      "description": "",
+      "available": true,
+      "id": 4
     }
   ]
 }
