@@ -52,8 +52,8 @@ Projeto é um desafio proposto pelo bootcamp ignite da Rocketset, que foi refato
 
 :heavy_check_mark: Create 1;\
 :heavy_check_mark: Read 2;\
-:heavy_check_mark: Update 3;
-:heavy_check_mark: Delete 3;
+:heavy_check_mark: Update 3;\
+:heavy_check_mark: Delete 4;
 
 ## :rocket: Tecnologias ##
 
